@@ -52,6 +52,7 @@
     <Compile Include="Exception\SysException.cs" />
     <Compile Include="Filter\ExceptionFilter.cs" />
     <Compile Include="Helper\StringHelper.cs" />
+    <Compile Include="Helper\UrlHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
